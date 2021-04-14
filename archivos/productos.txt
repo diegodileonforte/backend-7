@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Zapatillas Nike",
+    "price": 99.99,
+    "thumbnail": "https://essential.vteximg.com.br/arquivos/ids/301157-1000-1000/306-5769_1.jpg?v=637094145530900000",
+    "id": 1
+  },
+  {
+    "title": "Remera Adidas",
+    "price": 49.99,
+    "thumbnail": "https://www.cero26.com.ar/42233-large_default/remsolid-bb-t-ng-bc.jpg",
+    "id": 2
+  },
+  {
+    "title": "Short Reebok",
+    "price": 49.99,
+    "thumbnail": "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwd8261eb8/products/RE_FU1413/RE_FU1413-1.JPG",
+    "id": 3
+  }
+]
